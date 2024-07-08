@@ -47,7 +47,7 @@ The course content included an introduction to machine learning and various mach
 
   Overall, this lab work provided valuable hands-on experience in data clustering, from visualization to the application and evaluation of clustering methods. It enhanced my understanding of how to approach and solve clustering problems using Python and scikit-learn.
 
-### Summary
+### Postscript
 
 All folders with laboratory works also contain data sets with which I worked.
 
