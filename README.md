@@ -4,4 +4,4 @@ This is a repository for the projects I did on the DigiJED-​3 ICT Machine Lear
 
 ## Overview of the Course
 
-## More about the labs
+## [More about the labs](Labs)
