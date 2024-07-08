@@ -27,25 +27,25 @@ The course content included an introduction to machine learning and various mach
 
 - [The classification problem](Labs/Lab_2)
 
-In this laboratory work, I focused on implementing and evaluating various machine learning models to achieve accurate data classification. The primary models explored were Logistic Regression, both with and without L1 regularization, and k-Nearest Neighbors (kNN). Process began with data preprocessing, which involved splitting the dataset into training and testing sets and applying necessary transformations to ensure the data was ready for modeling.
+  In this laboratory work, I focused on implementing and evaluating various machine learning models to achieve accurate data classification. The primary models explored were Logistic Regression, both with and without L1 regularization, and k-Nearest Neighbors (kNN). Process began with data preprocessing, which involved splitting the dataset into training and testing sets and applying necessary transformations to ensure the data was ready for modeling.
 
-I trained multiple models, including standard Logistic Regression, Logistic Regression with L1 regularization, Logistic Regression with L1 regularization and balanced classes, and kNN. Each model was evaluated using cross-validation and validation curves to fine-tune hyperparameters, particularly the 'C' parameter for logistic regression. This step was crucial in identifying the optimal hyperparameter values that would enhance model performance. The evaluation metrics used included balanced accuracy, recall, precision, and confusion matrices, providing a comprehensive understanding of each model's performance.
+  I trained multiple models, including standard Logistic Regression, Logistic Regression with L1 regularization, Logistic Regression with L1 regularization and balanced classes, and kNN. Each model was evaluated using cross-validation and validation curves to fine-tune hyperparameters, particularly the 'C' parameter for logistic regression. This step was crucial in identifying the optimal hyperparameter values that would enhance model performance. The evaluation metrics used included balanced accuracy, recall, precision, and confusion matrices, providing a comprehensive understanding of each model's performance.
 
-Comparing the performance of the classifiers on the test set revealed that Logistic Regression with L1 regularization and balanced classes was the most effective model. It achieved the highest balanced accuracy and provided a good balance between precision and recall for both classes. This model demonstrated a strong ability to classify data correctly, highlighting the importance of using balanced classes to improve model performance.
+  Comparing the performance of the classifiers on the test set revealed that Logistic Regression with L1 regularization and balanced classes was the most effective model. It achieved the highest balanced accuracy and provided a good balance between precision and recall for both classes. This model demonstrated a strong ability to classify data correctly, highlighting the importance of using balanced classes to improve model performance.
 
-Overall, this laboratory work underscored the significance of hyperparameter tuning and model selection in achieving optimal classification performance. The results demonstrated that Logistic Regression with L1 regularization and balanced classes could effectively minimize both false positives and false negatives, making it a valuable approach for accurate data classification.
+  Overall, this laboratory work underscored the significance of hyperparameter tuning and model selection in achieving optimal classification performance. The results demonstrated that Logistic Regression with L1 regularization and balanced classes could effectively minimize both false positives and false negatives, making it a valuable approach for accurate data classification.
 
 - [The clustering problem](Labs/Lab_3)
 
-In this laboratory session, I delved into data clustering to understand how to identify and analyze clusters within a dataset. The work involved several key tasks:
+  In this laboratory session, I delved into data clustering to understand how to identify and analyze clusters within a dataset. The work involved several key tasks:
 
-I started by importing necessary libraries and loading the dataset from an Excel file. After cleaning the data, I constructed a scatterplot matrix to visually inspect potential clusters. The scatterplots showed that the data points were evenly distributed, indicating no obvious clusters.
+  I started by importing necessary libraries and loading the dataset from an Excel file. After cleaning the data, I constructed a scatterplot matrix to visually inspect potential clusters. The scatterplots showed that the data points were evenly distributed, indicating no obvious clusters.
 
-Creating a graph to observe changes in a specific index relative to body temperature for each patient. This helped in visualizing individual variations and understanding the data dynamics better.
+  Creating a graph to observe changes in a specific index relative to body temperature for each patient. This helped in visualizing individual variations and understanding the data dynamics better.
         
-Applying clustering algorithms like K-Means and Agglomerative Clustering to the dataset. To evaluate the performance of these algorithms, I used metrics such as the Calinski-Harabasz index, Davies-Bouldin index, and Silhouette score.
+  Applying clustering algorithms like K-Means and Agglomerative Clustering to the dataset. To evaluate the performance of these algorithms, I used metrics such as the Calinski-Harabasz index, Davies-Bouldin index, and Silhouette score.
 
-Overall, this lab work provided valuable hands-on experience in data clustering, from visualization to the application and evaluation of clustering methods. It enhanced my understanding of how to approach and solve clustering problems using Python and scikit-learn.
+  Overall, this lab work provided valuable hands-on experience in data clustering, from visualization to the application and evaluation of clustering methods. It enhanced my understanding of how to approach and solve clustering problems using Python and scikit-learn.
 
 ### Summary
 
